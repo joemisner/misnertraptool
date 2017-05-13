@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file>C:/Users/jmisner/Desktop/Untitled.png</file>
+    <file>favorites.png</file>
+    <file>favorites.svg</file>
+    <file>favorites.ico</file>
+  </qresource>
+</RCC>
